@@ -1,20 +1,16 @@
-# Riccardo Spada
-
-Welcome! I'm Riccardo Spada, a PhD candidate in Agricultural Economics at Wageningen University & Research.
-
 ## 📫 Contact
-- [Email](mailto:riccardo.spada@wur.nl)
+- riccardo.spada@wur.nl
 - [LinkedIn](https://www.linkedin.com/in/riccardo-spada)
 - [Website](https://blade-sp.github.io/PersonalWebsite/)
 
 ## 🔬 Research Interests
-- Agricultural economics
+- Agricultural Commodity Markets & Prices
+- Risk, Uncertainty & Risk Management 
+- Behavioural Economics 
 - Data analysis & econometrics
-- Sustainability in food systems
+- Agricultural & Food Policies
 
 ## 📂 Projects partecipations
-- [AgEnRes](https://agenres.eu) – Short description.
-- [Contracts2.0](https://www.project-contracts20.eu/) – Short description.
+- [AgEnRes](https://agenres.eu)
+- [Contracts2.0](https://www.project-contracts20.eu/)
 
-## 🛠️ Skills
-- R, Python, Stata, TeX
