@@ -1,8 +1,3 @@
-## 📫 Contact
-- riccardo.spada@wur.nl
-- [LinkedIn](https://www.linkedin.com/in/riccardo-spada)
-- [Website](https://blade-sp.github.io/PersonalWebsite/)
-
 ## 🔬 Research Interests
 - Agricultural Commodity Markets & Prices
 - Risk, Uncertainty & Risk Management 
